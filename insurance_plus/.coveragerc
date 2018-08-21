@@ -1,0 +1,5 @@
+[run]
+include = insurance_plus/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
